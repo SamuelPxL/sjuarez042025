@@ -1,0 +1,16 @@
+/* This is a CSS comment */
+/* ? Question comment */
+/* ! alert comment */
+/* TODO todo comment */
+/* * regular comment */
+body
+{
+    background-color: slategray;
+}
+h1
+{
+    color: darkcyan;
+    background-color: lightgrey;
+    padding: 1rem;
+}
+ul{font-family: 'Times New Roman', Times, serif;}
