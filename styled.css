@@ -98,3 +98,12 @@ audio {
   background-color: red;
   border: 5px solid red;
 }
+
+@media screen and (min-width: 600px) {
+  #pagecontent {
+    background-color: red;
+  }
+  #career {
+    background-color: blue;
+  }
+}
